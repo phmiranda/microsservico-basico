@@ -1,4 +1,4 @@
-package br.com.phmiranda.microsservico.basico.servico;
+package br.com.phmiranda.microsservico.basico.api.service;
 
 import org.springframework.stereotype.Service;
 

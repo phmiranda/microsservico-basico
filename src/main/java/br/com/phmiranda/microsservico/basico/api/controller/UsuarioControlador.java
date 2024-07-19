@@ -1,4 +1,4 @@
-package br.com.phmiranda.microsservico.basico.controlador;
+package br.com.phmiranda.microsservico.basico.api.controller;
 
 import org.springframework.web.bind.annotation.RestController;
 

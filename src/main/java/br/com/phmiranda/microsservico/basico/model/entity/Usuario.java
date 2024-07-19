@@ -1,4 +1,4 @@
-package br.com.phmiranda.microsservico.basico.entidade.modelo;
+package br.com.phmiranda.microsservico.basico.model.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
